@@ -3,3 +3,5 @@ conflict.txt 파일 생성.
 main에서 기능2를 개발했습니다.
 
 conflict에서 기능3을 개발했습니다.
+
+main에서 기능3을 BB방식으로 수정
