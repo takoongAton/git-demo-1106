@@ -1,3 +1,5 @@
 main.txt 파일을 생성했습니다.
 
 main.txt 파일 수정.
+
+main 기능1 개발 완료.
