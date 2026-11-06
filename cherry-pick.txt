@@ -1,3 +1,5 @@
 cherry-pick 파일을 생성했습니다.
 
 cherry 기능1 개발 완료.
+
+cherry-pick 기능2 개발 완료.
